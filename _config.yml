@@ -12,6 +12,8 @@ github_username:  Wooseok7
 
 # Build settings
 markdown: redcarpet
+pigments: true
+
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "tables"]
 
